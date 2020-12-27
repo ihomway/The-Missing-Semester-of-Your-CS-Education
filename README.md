@@ -9,7 +9,7 @@ YouTube channel: [Missing Semester](https://www.youtube.com/channel/UCuXy5tCgEni
 bilibili (not official): [计算机科学课堂中学不到的知识](https://www.bilibili.com/video/BV1x7411H7wa?)
 
 ## Courses
-1. Course overview + the shell
+1. [Course overview + the shell](https://github.com/ihomway/The-Missing-Semester-of-Your-CS-Education/blob/master/Course%20overview%20%2B%20the%20shell/README.md)
 2. Shell Tools and Scripting
 3. Editors (Vim)
 4. Data Wrangling
