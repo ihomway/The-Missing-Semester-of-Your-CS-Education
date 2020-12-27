@@ -10,7 +10,7 @@ bilibili (not official): [计算机科学课堂中学不到的知识](https://ww
 
 ## Courses
 1. [Course overview + the shell](https://github.com/ihomway/The-Missing-Semester-of-Your-CS-Education/blob/master/Course%20overview%20%2B%20the%20shell/README.md)
-2. Shell Tools and Scripting
+2. [Shell Tools and Scripting](https://github.com/ihomway/The-Missing-Semester-of-Your-CS-Education/blob/master/Shell%20Tools%20and%20Scripting/README.md)
 3. Editors (Vim)
 4. Data Wrangling
 5. Command-line Environment
